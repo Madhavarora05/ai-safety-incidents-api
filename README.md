@@ -1,6 +1,6 @@
 # AI Safety Incident Log API
 
-🔗 **Repository Link**: [GitHub Repository](https://github.com/your-username/ai-safety-incidents-api)  
+🔗 **Repository Link**: [GitHub Repository](https://github.com/Madhavarora05/ai-safety-incidents-api)  
 *(Replace with your actual repo link!)*
 
 ---

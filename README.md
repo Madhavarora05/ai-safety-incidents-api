@@ -31,7 +31,7 @@ It allows users to **create**, **retrieve**, and **delete** incident reports.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-safety-incidents-api.git
+   git clone https://github.com/Madhavarora05/ai-safety-incidents-api.git
    cd ai-safety-incidents-api
    ```
 
